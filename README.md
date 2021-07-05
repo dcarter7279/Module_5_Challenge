@@ -1,11 +1,15 @@
 # Module_5_Challenge
+Part 1 is a financial planner for emergencies for memebers of a credit union. Members will be able to visualize their current savings, ti determine if they have enough reserves for an emergency fund.
+
+Part 2 is a financial planner for retirement. The planner will forecast the performance of their retirement portfolio over 30 years. The planner will make an API call via the Alpaca SDK to get historical price data for use in the Monte Carlo Simulations.
 
 Technologies
+
 This project leverages python 3.3.8.5
 
 Installation Guide
-Install the following dependencies before running the application
 
+Install the following dependencies before running the application
 import os
 import requests
 import json
